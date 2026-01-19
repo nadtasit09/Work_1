@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "191557000964",
+    "project_id": "flag-pic-fdefb",
+    "storage_bucket": "flag-pic-fdefb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191557000964:android:684a7bb99adc82b79b7a51",
+        "android_client_info": {
+          "package_name": "com.example.flag_pic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQILpZdUy1daZkPquHn6lK0YOaACdtS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191557000964:android:ceccbecdc6b30ed39b7a51",
+        "android_client_info": {
+          "package_name": "com.food.oat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQILpZdUy1daZkPquHn6lK0YOaACdtS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191557000964:android:a2c1efcfe77ccc8a9b7a51",
+        "android_client_info": {
+          "package_name": "com.nadtasit.flag_pic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQILpZdUy1daZkPquHn6lK0YOaACdtS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
